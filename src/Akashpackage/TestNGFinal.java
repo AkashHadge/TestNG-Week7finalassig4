@@ -7,16 +7,16 @@ import org.testng.annotations.Test;
 public class TestNGFinal {
 	@Test
 	  public void f() {
-		  System.out.println("Hello akashTest11");
+		  System.out.println("Hello akashTest111");
 	  }
 	  @BeforeTest
 	  public void beforeTest() {
-		  System.out.println("Hello akashTest12");
+		  System.out.println("Hello akashTest112");
 	  }
 
 	  @AfterTest
 	  public void afterTest() {
-		  System.out.println("Hello akashTest13");
+		  System.out.println("Hello akashTest113");
 	  }
 
 	}
